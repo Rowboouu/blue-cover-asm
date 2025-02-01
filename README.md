@@ -37,7 +37,9 @@ _2. Running the Assembly Code_
 - If MARS does not open, ensure Java is properly installed and added to your system path.
 
 **Credits**
+
 Original song: "Blue" by Yung Kai
+
 Implemented in MIPS assembly by Brian James Concillo
 
 **License**
