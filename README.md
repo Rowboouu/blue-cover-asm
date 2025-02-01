@@ -8,6 +8,7 @@ This project is an assembly language cover of the song "Blue" by Yung Kai, imple
 - Demonstrates basic assembly-level sound synthesis.
 
 **Requirements**
+
 To run this project, you need:
 - MARS IDE (MIPS Assembler and Runtime Simulator)
 - A system capable of running Java (since MARS requires Java to function)
