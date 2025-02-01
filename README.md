@@ -1,19 +1,19 @@
-## **Blue - Yung Kai (Assembly Language Cover)**
+# **Blue - Yung Kai (Assembly Language Cover)**
 
 This project is an assembly language cover of the song "Blue" by Yung Kai, implemented using MIPS assembly and executed in the MARS (MIPS Assembler and Runtime Simulator) IDE.
 
-# **Features**
+## **Features**
 - Plays a cover of "Blue" using MIPS assembly.
 - Utilizes MARS IDE's built-in sound capabilities.
 - Demonstrates basic assembly-level sound synthesis.
 
-# **Requirements**
+## **Requirements**
 
 To run this project, you need:
 - MARS IDE (MIPS Assembler and Runtime Simulator)
 - A system capable of running Java (since MARS requires Java to function)
 
-# **Installation & Setup**
+## **Installation & Setup**
 
 **1. Download and Install MARS IDE**
   1. Go to the MARS official website.
@@ -27,21 +27,21 @@ To run this project, you need:
   4. Run the program by clicking the Run button.
   5. Ensure your system's audio is enabled to hear the output.
 
-# **Code Structure**
+## **Code Structure**
 - blue.asm - The main assembly file containing the implementation of the song.
 - Uses system calls for sound generation.
 - Implements timing delays to match the song’s rhythm.
 
-# **Troubleshooting**
+## **Troubleshooting**
 - If no sound is heard, ensure your audio output is enabled and check MARS settings under Settings > Enable Sound.
 - If MARS does not open, ensure Java is properly installed and added to your system path.
 
-# **Credits**
+## **Credits**
 
 Original song: "Blue" by Yung Kai
 
 Implemented in MIPS assembly by Brian James Concillo
 
-# **License**
+## **License**
 
 This project is for educational purposes only and does not claim ownership of the original song.
