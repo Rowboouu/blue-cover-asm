@@ -2,7 +2,7 @@
 #       Concillo, Brian James C.        #
 #        Moncano, Mark Louie C.         #
 #           Paring, Irish A.            #
-#               CPE 4B              #
+#               CPE 4B                  #
 #          CPE413 PIT - Final           #
 ########################################################
 
